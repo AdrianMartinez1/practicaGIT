@@ -1,0 +1,10 @@
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.csprojAssemblyReference.cache
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.Properties.Resources.resources
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.csproj.GenerateResource.cache
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.csproj.CoreCompileInputs.cache
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\bin\Debug\practicaGIT.exe.config
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\bin\Debug\practicaGIT.exe
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\bin\Debug\practicaGIT.pdb
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.exe
+C:\Users\adria\Source\Repos\AdrianMartinez1\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.pdb
